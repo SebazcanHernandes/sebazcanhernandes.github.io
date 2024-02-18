@@ -1,0 +1,56 @@
+body {
+  background-color: #8CD4FF;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h1 {
+  text-shadow: 10px 10px 50% black;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  text-shadow: 10px 10px 50% black;
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+table {
+  border-style: none;
+}
+
+th {
+  font-size: 15px;
+}
+
+td {
+  width: 250px;
+}
+
+a {
+  color: #FF773D;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+a:visited {
+  color: #FF773D;
+}
+
+#about {
+  margin: 10px;
+  border: 2px solid black;
+}
+
+p {
+  margin: 15px;
+}
+
+.tab {
+  margin-left: 15px;
+}
