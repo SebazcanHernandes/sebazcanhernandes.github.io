@@ -1,4 +1,6 @@
 body {
+  padding: 0;
+  margin: 0;
   background-color: #8CD4FF;
   font-family: monospace;
   font-size: 20px;
@@ -14,6 +16,12 @@ h2 {
   text-shadow: 10px 10px 50% black;
   font-size: 25px;
   margin-left: 10px;
+}
+
+h3 {
+  text-shadow: 10px 10px 50% black;
+  text-align: center;
+  font-size: 25px;
 }
 
 table {
@@ -53,4 +61,20 @@ p {
 
 .tab {
   margin-left: 15px;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+#space {
+  height: 5vh;
+}
+
+#footer {
+  color: #EAE46E;
+  background-color: rgba(34, 64, 155, 128);
+  width: 100%;
+  height: auto;
 }
